@@ -9,12 +9,8 @@ Este site foi criado usando apenas html e css. Ele contém algumas informações
 ## Link do Site
 
 Você pode acessar o site https://pauloricardoportfolio.tiiny.site/
-## Screenshots
-
-![Screenshot 1](caminho_para_o_print_1.png)
-![Screenshot 2](caminho_para_o_print_2.png)
-![Screenshot 3](caminho_para_o_print_3.png)
-
+## Fotos do Site
+![print1](https://github.com/Pauloricardo1808/Site-PI-I-FATEC-FRANCA/assets/160679215/fbf6b4dd-cdcd-4a53-919f-83ccdfb22a12)
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
